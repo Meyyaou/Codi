@@ -1,0 +1,15 @@
+
+header{
+    background-color: rgba(226, 201, 119, 0.418);
+    width: 100%;
+    height: 50px;
+    padding-left: 15px;
+    padding-bottom: 0px;
+    padding-top: 20px;
+    position: relative;
+}
+
+header h2{
+    margin-top: 0;
+
+}
